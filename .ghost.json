@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://blissful-euclid-0a936f.netlify.app",
     "contentApiKey": "9cada5c40684e60a9348b1063b"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://blissful-euclid-0a936f.netlify.app",
     "contentApiKey": "9cada5c40684e60a9348b1063b"
   }
 }
